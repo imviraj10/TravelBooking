@@ -3,6 +3,6 @@ friendly interface.
 
 Tech Stack : 
 
-Javascript
-Node JS, Express JS
- Mongo DB
+Javascript,
+Node JS, Express JS,
+Mongo DB
